@@ -1,5 +1,5 @@
 ### Hi there 👋
 - Harbour Zheng, @Beijing.
-- I am working on CnosDB, An Opne Source Time Series Database.
+- I am working on CnosDB, An Open Source Time Series Database.
 - CMU and HIT Alumni, 10+ years Infra Exeperience.
-- Contact me by Email: harbour.zheng@cnosdb.com
+- Contact me by Email: harbour.zheng@cnosdb.com 
